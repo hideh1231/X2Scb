@@ -1,0 +1,89 @@
+name: 日次ツイート収集
+
+# ⚠️ テンプレート使用者へ: 必要に応じて以下を調整してください
+# 1. cronスケジュール（現在はUTC 00:00 = JST 09:00）
+# 2. GitHub シークレット の設定
+# 3. Scrapboxプロジェクト名の設定
+
+on:
+  schedule:
+    # 毎日UTC午前0時（日本時間午前9時）に実行 - 必要に応じてタイムゾーンを調整してください
+    - cron: "0 0 * * *"
+  # 手動実行用（テスト時に便利）
+  workflow_dispatch:
+
+# GitHub Actionsに書き込み権限を付与
+permissions:
+  contents: write
+
+jobs:
+  collect-tweets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v3
+
+      - name: Node.js をセットアップ
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: 依存関係をインストール
+        run: npm install
+
+      - name: 環境変数をデバッグ
+        run: |
+          echo "シークレットの状態確認:"
+          echo "TW_BEARER: ${{ secrets.TW_BEARER != '' && '設定済み' || '未設定' }}"
+          echo "OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY != '' && '設定済み' || '未設定' }}"
+          echo "環境変数の存在確認:"
+          env | grep -i TW_BEARER || echo "TW_BEARER はenv内に見つかりません"
+          env | grep -i OPENAI || echo "OPENAI はenv内に見つかりません"
+
+      - name: daily.js を実行
+        run: |
+          export TW_BEARER="${{ secrets.TW_BEARER }}"
+          export OPENAI_API_KEY="${{ secrets.OPENAI_API_KEY }}"
+          export SCRAPBOX_PROJECT="${{ secrets.SCRAPBOX_PROJECT || 'your-scrapbox-project' }}" # あなたのScrapboxプロジェクト名に置き換えてください
+          export TWITTER_USERNAME="${{ secrets.TWITTER_USERNAME || 'your-username' }}" # あなたのTwitterユーザー名に置き換えてください
+          echo "環境変数の設定状況:"
+          echo "TW_BEARER設定: ${TW_BEARER:+設定あり}"
+          echo "OPENAI_API_KEY設定: ${OPENAI_API_KEY:+設定あり}"
+          echo "SCRAPBOX_PROJECT: ${SCRAPBOX_PROJECT}"
+          echo "TWITTER_USERNAME: ${TWITTER_USERNAME}"
+          # SCRAPBOX_PROJECTをdaily.jsに渡します（テンプレート使用者は変更してください）
+          node daily.js ${SCRAPBOX_PROJECT}
+        env:
+          TW_BEARER: ${{ secrets.TW_BEARER }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SCRAPBOX_PROJECT: ${{ secrets.SCRAPBOX_PROJECT || 'your-scrapbox-project' }} # あなたのScrapboxプロジェクト名に置き換えてください
+          TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME || 'your-username' }} # あなたのTwitterユーザー名に置き換えてください
+          # シークレットが正しく設定されているか確認用のログ
+          # （セキュリティのため値は表示せず、設定されているかのみ確認）
+          CHECK_TW_BEARER: ${{ secrets.TW_BEARER != '' && '設定済み' || '未設定' }}
+          CHECK_OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY != '' && '設定済み' || '未設定' }}
+          CHECK_SCRAPBOX_PROJECT: ${{ secrets.SCRAPBOX_PROJECT != '' && '設定済み' || '未設定' }}
+          CHECK_TWITTER_USERNAME: ${{ secrets.TWITTER_USERNAME != '' && '設定済み' || '未設定' }}
+
+      - name: Gitを設定
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 変更があればコミットしてプッシュ
+        run: |
+          git config pull.rebase false  # マージ方式を設定
+          git add public/
+          # 変更があるかどうか確認
+          if [[ -n "$(git status --porcelain)" ]]; then
+            # 最新の変更を取得してからコミット
+            git pull origin main
+            # 今日の日付を取得
+            TODAY=$(date +"%Y-%m-%d")
+            git commit -m "📊 $TODAY のツイートデータを追加"
+            git push
+          else
+            echo "コミットする変更はありません"
+          fi
