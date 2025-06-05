@@ -15,7 +15,7 @@
     // 設定 - テンプレート使用時はここを変更してください
     const CONFIG = {
         // GitHubのユーザー名 (あなたのGitHubユーザー名に変更)
-        GITHUB_USERNAME: 'YOUR_GITHUB_USERNAME',
+        GITHUB_USERNAME: 'hideh1231',
         // GitHubのリポジトリ名 (作成したリポジトリ名に変更)
         GITHUB_REPO: 'X2Scb',
     };
