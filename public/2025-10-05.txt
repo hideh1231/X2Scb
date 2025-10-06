@@ -1,0 +1,97 @@
+[* 2025-10-05 のツイートまとめ]
+
+[** 自分のツイート]
+ [https://twitter.com/hideh_1231/status/1974873122747879793]
+  息抜きに読んでたらあまりにも良かったのでみんな読んでね
+  https://t.co/av4uaWWwJi
+
+ [https://twitter.com/hideh_1231/status/1974872382058979446]
+  とりあえず、ショパンコンクールはBGMにいいぞ
+  https://t.co/8L4vBWGMli
+
+ [https://twitter.com/hideh_1231/status/1974872012435919139]
+  対象に対する解像度を高めきれていないからか、何を知りたいのか、調べたいのかがわからなくなって頭を抱えていたともいう
+
+ [https://twitter.com/hideh_1231/status/1974871836598194299]
+  やらないといけないタスクが残っているのに、この二日は何もわからんと頭を抱えて新規実験系をコネコネしてたら終わった、マジ？？？
+
+ [https://twitter.com/hideh_1231/status/1973992840528105957]
+  いきなりaudapterが動かなくなったらしく勘弁してほしい...
+
+ [https://twitter.com/hideh_1231/status/1973661540533543133]
+  自分の美学的にはまあまあ許容しづらいのだが、現状を顧みると許容してひとまず進むしかないのがもうね…
+
+ [https://twitter.com/hideh_1231/status/1973645965799333988]
+  自分の無知及びリソース制約の問題で実験デザインを最適化しきれていないものってどうするのがいいんですかね（遠い目）
+  その中で言えることを言うしかないよなぁ
+
+ [https://twitter.com/hideh_1231/status/1973644716270035233]
+  うーん、過去の自分の研究の実験デザインのクソな点が多すぎて泣けてきた、かなしいね
+
+ [https://twitter.com/hideh_1231/status/1973219829688705278]
+  内容的な気になりポイントは、まあまあな割合の人でm-ratioが1超えるのってマジでなんなんだ...という。超能力者多すぎない？？？という
+
+ [https://twitter.com/hideh_1231/status/1973219123367936030]
+  昨日読んで感動してたやつ
+  実験デザインが丁寧な職人仕事感が好きすぎる、我々は本来ここまで当たり前のようにやらないといけないよなと再認識したというか...（反省）
+
+ [https://twitter.com/hideh_1231/status/1973054202000621616]
+  自分の研究の強みと思ってた部分を完全に潰されたので、そういう意味では笑うしかないが…
+
+ [https://twitter.com/hideh_1231/status/1973053646347657368]
+  ここまでパイロット実験やって条件詰めて、統計的不備も最小化して、検証を網羅してるのマジエグい、好きすぎる
+
+ [https://twitter.com/hideh_1231/status/1973052818421326066]
+  自分がこういう風に研究デザイン組んでやりたかった、みたいな論文が出てて羨望の気持ちがエグい、論文読み込も
+
+ [https://twitter.com/hideh_1231/status/1973034045882999228]
+  読み切っちゃった
+  更新お待ちしてます…
+  https://t.co/sbyNXgHgOz
+
+ [https://twitter.com/hideh_1231/status/1973021467647648191]
+  目指せ言行一致...
+
+ [https://twitter.com/hideh_1231/status/1973021119658741931]
+  いやぁ、現状の進捗がしょっぱいのと、今やってることとやりたいことの脈絡がないから、それはそうという感じではあるんですよねぇ
+  研究難しすぎるぜ
+
+ [https://twitter.com/hideh_1231/status/1972980619828449472]
+  己の性能が悪すぎるのでバージョンアップしていきてぇ
+  （人々の優しさに報わなければ）
+
+ [https://twitter.com/hideh_1231/status/1972922069374636435]
+  人生のエントロピーが上昇した
+
+ [https://twitter.com/hideh_1231/status/1972609033443176659]
+  締切苦手人間としては、きっとgksnの事務方の皆さんは今デスマしてるんだろうなと同情してしまう
+
+ [https://twitter.com/hideh_1231/status/1972607982669332826]
+  動心遊びに行くかーと思ってたら予定入ってた、あっぶねぇ
+
+ [https://twitter.com/hideh_1231/status/1972550781124624467]
+  今年の🌽おもろそうだが、流石に時間がなさすぎる…
+
+ [https://twitter.com/hideh_1231/status/1972540651054182482]
+  これは解散でいい？？？よね？？？？？
+
+[** リツイート]
+ >[https://x.com/terashimahiroki/status/1973958213755416645 @terashimahiroki]: 神経回路学会オータムスクール #ASCONE   は今日〆切！
+ >
+ >まだまだ間に合いますが、くれぐれもお忘れなく…… https://t.co/vodMj515co
+  [ChatGPT.icon]神経回路学会のオータムスクール「ASCONE」の参加申込みが今日が締切です。まだ参加可能ですが、忘れないように注意してくださいという内容のツイートです。
+
+ >[https://x.com/kazuhi_s_/status/1973218934259364034 @kazuhi_s_]: ラボで初のレジレポがようやく出た。感慨深い。もともとは修士の学生のために、ネガポジどちらに転んでもpublishableなようにしようと、Julianにリードしてもらいデザインした研究。でも、かかった時間と労力を振り返ると、あんまり大学院生向きではなかったともいえる。いろいろ勉強になった。（続く https://t.co/RmVpX40ddJ
+  [ChatGPT.icon]このツイートでは、著者がラボで初めてのレジデントレポート（レジレポ）を発表したことに対する感慨を表現しています。もともとこの研究は修士課程の学生が行う
+
+ >[https://x.com/YoichiMiyawaki/status/1972550250587136193 @YoichiMiyawaki]: ASCONE2025、現在受講者募集中です！私は「脳に『余白』はあるか？」という謎のテーマで、私自身もやったことがない新しい内容を講義します。抄録は多分もうちょっとしたらアップできると思います。神経多様体とか神経拡張とかに興味がある方は、ぜひ！
+ >#ASCONE #ASCONE2025
+ >https://t.co/TktNkRRECd
+  [ChatGPT.icon]ASCONE2025では、現在受講者を募集しています。講師として「脳に『余白』はあるか？」というテーマで講義を行う予定で、これは自身がまだ試したことのない新しい内容です。講義の抄録
+
+ >[https://x.com/H_A_Research/status/1972538990315352574 @H_A_Research]: My first-authored paper has just been published in Scientific Reports!
+ > Our theme:
+ > 👉 “To what extent can multimodal large language models (MLLMs) estimate the complex structure of human emotions?”
+ > https://t.co/Rd4eOTSdkA https://t.co/x7RfKEK6NZ
+  [ChatGPT.icon]著者として初めての論文が『Scientific Reports』に掲載されたことを報告しています。研究のテーマは「多モーダル大規模言語モデル（MLLMs）は、人間の感情の複雑な構造をどの程度推
+
