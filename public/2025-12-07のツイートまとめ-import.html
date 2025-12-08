@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrapbox Import: 2025-12-07のツイートまとめ</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    pre {
+      background-color: #f5f5f5;
+      padding: 15px;
+      border-radius: 5px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .buttons {
+      margin: 20px 0;
+    }
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      background-color: #4285f4;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      margin-right: 10px;
+    }
+    button:hover {
+      background-color: #3367d6;
+    }
+    .help {
+      background-color: #f9f9f9;
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Scrapbox インポート：2025-12-07のツイートまとめ</h1>
+  <div class="buttons">
+    <button id="copyBtn">コンテンツをコピー</button>
+    <button id="openScrapbox">Scrapboxを開く</button>
+  </div>
+  <p>以下のテキストをコピーして、Scrapboxの新規ページに貼り付けてください：</p>
+  <pre id="content">[* 2025-12-07 のツイートまとめ]
+
+[** 自分のツイート]
+ [https://twitter.com/hideh_1231/status/1997264406405841022]
+  久しぶりに虚無な1日を過ごせた、満足（？）
+
+ [https://twitter.com/hideh_1231/status/1996866257967370740]
+  cloudflareテメェ...
+
+ [https://twitter.com/hideh_1231/status/1996454551319421363]
+  寒すぎる…沖縄に住みたい…（n度目）
+
+ [https://twitter.com/hideh_1231/status/1995640253705846978]
+  この5日で鍵に関連するものを5回なくしてて、自分にドン引きしている…なぜ…
+
+[** リツイート]
+ >[https://x.com/jibunhack/status/1997326264739537322 @jibunhack]: 社内チャットで誰の投稿に対してもスタンプを押す人が今日も組織を小さく大きく駆動している。
+  [ChatGPT.icon]このツイートは、社内チャットにおいて他のメンバーの投稿に対してスタンプを押す人がいることに触れています。この行動が、組織の中でのコミュニケーションや活発な活動を促
+
+ >[https://x.com/shunk031/status/1997160308885148050 @shunk031]: 前半の安定した @sei_shinagawa 先生節と、後半にめちゃくちゃ人生の有益情報が書いてあって全博士課程の学生に読んでもらいたい記事だった………人生は……採択率だ…………🔥
+ >
+ >あのD進から10年を振り返る - Seitaro Shinagawaの雑記帳 https://t.co/vA0kbCXLn2
+  [ChatGPT.icon]ツイートでは、@sei_shinagawa 先生の記事について述べられています。前半は先生の安定した文章スタイルで構成されており、後半には非常に有益な人生に関する情報が豊富に含まれている
+
+ >[https://x.com/minon_san/status/1995746130811125913 @minon_san]: 学会前日にポスター印刷を忘れたお前らへの対処法｜みのんさん @minon_san https://t.co/Xuy9HPjRL6 
+ >
+ >非常に愚かな体験記を書きました
+  [ChatGPT.icon]ツイートは、学会の前日にポスター印刷を忘れた人々に向けた対処法についての内容で、著者が自らの愚かな体験を詳しく綴ったものです。著者はその状況を笑
+
+</pre>
+
+  <div class="help">
+    <h3>使い方</h3>
+    <ol>
+      <li>「コンテンツをコピー」ボタンをクリックしてテキストをコピー</li>
+      <li>「Scrapboxを開く」ボタンをクリックしてhideh1231-51954376プロジェクトを開く</li>
+      <li>新規ページを作成し、コピーしたテキストを貼り付け</li>
+    </ol>
+  </div>
+
+  <script>
+    document.getElementById('copyBtn').addEventListener('click', function() {
+      const content = document.getElementById('content');
+      const selection = window.getSelection();
+      const range = document.createRange();
+      range.selectNodeContents(content);
+      selection.removeAllRanges();
+      selection.addRange(range);
+      document.execCommand('copy');
+      selection.removeAllRanges();
+      alert('コンテンツをコピーしました！');
+    });
+
+    document.getElementById('openScrapbox').addEventListener('click', function() {
+      window.open('https://scrapbox.io/hideh1231-51954376', '_blank');
+    });
+  </script>
+</body>
+</html>
+  
