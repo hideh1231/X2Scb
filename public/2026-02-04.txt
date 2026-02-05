@@ -1,0 +1,110 @@
+[* 2026-02-04 のツイートまとめ]
+
+[** 自分のツイート]
+ [https://twitter.com/hideh_1231/status/2017835764252610912]
+  人生初の茶香服チャレンジ
+  普段飲んでるはずなのに、てんでわからなくて笑った
+
+ [https://twitter.com/hideh_1231/status/2017755967027614165]
+  @PotyaExe 🎉
+
+ [https://twitter.com/hideh_1231/status/2017605624662790547]
+  締切駆動開発から脱したい2026冬
+
+ [https://twitter.com/hideh_1231/status/2016877388026782188]
+  この番組、とてもよかった
+
+[** リツイート]
+ >[https://x.com/Alibaba_Qwen/status/2019027862318428288 @Alibaba_Qwen]: 🚀 Introducing Qwen3-Coder-Next, an open-weight LM built for coding agents &amp; local development.
+ >What’s new:
+ >🤖 Scaling agentic training: 800K verifiable tasks + executable envs
+ >📈 Efficiency–Performance Tradeoff: achieves strong results on SWE-Bench Pro with 80B total params and https://t.co/P7BmZwdaQ9
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/tmiyatake1/status/2018645920834027680 @tmiyatake1]: AnthropicのAIトレーニングのために世界中の本を集めて全ページをスキャンする取り組み「Project Panama」の社内資料で公開された本の倉庫の様子がすごい。
+ >
+ >https://t.co/pXUwxRosxE https://t.co/1ZQSZqwv8v
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/sammy_suyama/status/2018644861528997971 @sammy_suyama]: 無料で閲覧可能なオンライン版があった（英文）。10章以降の日本語訳は秋発売になっていて、
+ >10.畳み込みニューラルネットワーク、11.グラフィカルモデル、12.Transformer、13.GNN、14.サンプリング、15.離散潜在変数、16.連続潜在変数、17.GAN、18.Normalizing https://t.co/n8q92eqmAH
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/_akhaliq/status/2018644312914038911 @_akhaliq]: Google presents PaperBanana
+ >
+ >Automating Academic Illustration for AI Scientists https://t.co/SMjvy7q3gI
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/ezweb_dylan/status/2018459529076453441 @ezweb_dylan]: ひょえ〜… https://t.co/IXPtY56SFq
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/toki_make/status/2018320758477631636 @toki_make]: https://t.co/tJX1Py0hWE
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/caesar_wanya/status/2018320210944758159 @caesar_wanya]: 博士、大体成果を出しているのは朝型にせよ夜型にせよ規則正しくある程度の時間研究室に来ている人では。朝型は8時過ぎには来て18時過ぎには帰る、夜型も12時前には来て23時くらいには帰る。逆に成果の出ないのは来たり来なかったり、あるいは来ても昼頃来て夕方には帰ってしまう生活パターン。
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/yohei_econ/status/2018011270029713897 @yohei_econ]: ベーシックインカム（BI）に関する13の主要な実験結果をまとめたサーベイ論文。BI実験はいろいろなところで行われていますが、全体感が見えにくかったので、こういう形でまとめてもらえるのは有益。
+ >
+ >主要な結果は以下の通りです。
+ >・多くの研究で、金融的安定性、健康、
+ >https://t.co/AMwbHIRNAT
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/raurublock/status/2017857482224505007 @raurublock]: "Wikipedia編集者たちが、AIが書いた文章を見抜くためにまとめたガイドが、いまやAIに「人間らしい」文を書かせるための指針として転用されている"
+ >https://t.co/iS86j8k23p
+ >あうー
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/yryrse/status/2017441798914990550 @yryrse]: こういう記事、身につまされるので良い https://t.co/km12x1fusP
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/Alien_Evolve/status/2017440283378819092 @Alien_Evolve]: 意味不明だけど、とても面白い。
+ >「女性より男性の方が鳥に近づける」　https://t.co/n6tXieiRCv P&amp;N (2025)
+ >男性に比べ女性が鳥に近づくと、平均して1m早く逃走を開始。欧州5カ国の調査（n=2701）で一貫した傾向。なぜかは不明、著者たちも考察で悩んでる
+ >※逃走開始距離は対捕食者反応の一般的な指標
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/Kyukimasa/status/2017376309194985758 @Kyukimasa]: Science、凍結湖面のワカサギ釣りが表紙になっててなにかと思ったら「人間の採餌戦略」の研究
+ >https://t.co/u5Ed3cn2ag
+ >動物の餌探しには特有の移動パターンがあったりするけど、人間の狩猟採集行動はどのような戦略があるのか釣り大会の参加者にGPS付けて調べたのだそうだ https://t.co/I9iKrMxp8x
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/mahoiwa/status/2017369747839717557 @mahoiwa]: 大学時代の友達に会ったんだけど、「猫は喋らないから、本当のところどう思ってるかは分からず、こう思ってるんだろうと想像しながら対峙するので、かなり自分を投影した存在になる。私は猫を撫でている時、自分を撫でていたのかもしれない」と哲学的な事を言ってた。
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/oxt23/status/2017368196031062221 @oxt23]: これは全PIが読むべき。優秀なシステム構築しか勝たん。 https://t.co/3tHv4Gdpr5
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/monkiti_smile/status/2017137157228617950 @monkiti_smile]: あなたはご存知ですか？
+ >本の問屋トーハンが運営しているe-honは、自宅配送をしても指定した書店さんの売上になります。ネット書店のように使えて、書店さんの応援もできる。素敵な仕組みなのに、あまり知られていないのですよね。だから何度でも紹介します。たくさんの人に知ってもらえますように。 https://t.co/H9ZJfcQdka
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/koguGameDev/status/2017088494590709824 @koguGameDev]: https://t.co/TuXOssoFnD
+ >
+ >Genie 3、まだ限定とはいえ一般公開始まった。
+ >
+ >3DCG死ぬって話、そしてゲームも激変するし、レンダリング全部変わる、そういう予想の先にあるものとしてずっと追いかけてたビジュアル志向のワールドモデル。
+ >
+ >Google DeepMind「Genie
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/ptw47880348/status/2016877334939496649 @ptw47880348]: 成田さんの最後の感想🤣
+ >
+ >「すごい感銘を受けて。普通こういう番組はスタッフがまとめたVTRがあって、それを見た橋下さんを筆頭とする小銭稼ぎのコメンテーター達が怒りを表明し浅い提案をしてお開きというのが定番のパターンだと思うんですけど、それと真逆でホントにガチでした」
+ >
+ >成田悠輔
+ >ガチの門 https://t.co/tjAGJfbsbg
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/taketo1024/status/2016850441318109592 @taketo1024]: アカデミアを離れて会社員をやりながら研究を続けるというのは、仕事が研究内容に近いものでない限り相当厳しいという印象を持っていたけど、これも AI の力で変わる可能性があるということに気付かされた。夢のある話だ💫
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/wagashi_no_yosa/status/2016849496270131280 @wagashi_no_yosa]: 鳥の名前，花の名前を覚えるといいよ。世界の解像度が一気に高くなる。
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/GOROman/status/2016712766787379593 @GOROman]: 米防衛テック・アンドゥリルは、なぜ秋田の未上場モーター会社を選んだのか
+ >
+ >https://t.co/pPAMEKdh8j
+  [ChatGPT.icon]要約の取得に失敗しました
+
