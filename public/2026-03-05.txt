@@ -1,0 +1,128 @@
+[* 2026-03-05 のツイートまとめ]
+
+[** 自分のツイート]
+ [https://twitter.com/hideh_1231/status/2029536433363664991]
+  これは2日前に生まれたらしいじいちゃんちの子牛 https://t.co/yjOikHI7ah
+
+ [https://twitter.com/hideh_1231/status/2029479056941695319]
+  日本一海の近い駅の隣の駅らしい https://t.co/6ZE7xYitv0
+
+ [https://twitter.com/hideh_1231/status/2029449731118907409]
+  きたぜ長崎 https://t.co/jIJFi1xqIH
+
+ [https://twitter.com/hideh_1231/status/2029088439459860505]
+  マジでこれ
+
+ [https://twitter.com/hideh_1231/status/2028865412851700073]
+  家具家電を買うかレンタルするかで悩んでるんですが、有識者いませんか〜！
+
+ [https://twitter.com/hideh_1231/status/2028080046708310204]
+  見てきた https://t.co/pdhQCBZNCf
+
+ [https://twitter.com/hideh_1231/status/2027721799157604659]
+  家族と飯屋行ってきた
+
+ [https://twitter.com/hideh_1231/status/2027720570956353819]
+  人類パイ投げしてておもろいな
+
+ [https://twitter.com/hideh_1231/status/2027201263373631922]
+  非常に良くないムーブをしている...すみません...
+
+[** リツイート]
+ >[https://x.com/neuroholism/status/2029536243231641761 @neuroholism]: 東京科学大学礒村研平チームではポスドク（学振PD等）・大学院生を募集しています。先端的な顕微鏡や計算機環境、創発RAや国際卓越予算等、状況が整いました。脳科学にとっても本質的な問題に挑戦できる時期となり、近々歴史的な発見があると確信しています。興味があれば声をかけてください。
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/rikiyatakehi_jp/status/2029465149476933826 @rikiyatakehi_jp]: ちなみに日本は海外大学院への金銭的支援は世界的に見てすごく手厚いです。
+ >
+ >例えば僕が支援いただいている豊田理研奨学金は年1000万円の支援です。加えて出願準備期間や出願費用もサポートしていただけます。
+ >
+ >他の国ではこのレベルの奨学金を大学院入学以前にいただけるのは割とレアらしいです... https://t.co/2tslVuLQR0
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/tonets/status/2029402522386071763 @tonets]: R9から基盤Cと萌芽の重複OKになりそうなのね（※39歳以下のみ） https://t.co/tVUjwZhOz9
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/n0rr/status/2029365467631239684 @n0rr]: 消耗品計上‼️資産台帳管理なしのMacBook‼️ようやくApple は日本の税制に気づいた⁉️ https://t.co/pMpVCenXON
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/ootori_t/status/2029213436136308793 @ootori_t]: 触覚だけで神経衰弱ができるゲーム作った🫨
+ >振動のパターンが、同じペアを探すやつ。
+ >スマホ専用です！
+ >
+ >@lochieaxonの『WebHaptics』を使っています！
+ >Thanks!
+ >
+ >意外と人間って、細かい触覚の違いをちゃんと認識できるんだなあ…と。
+ >
+ >https://t.co/TJvMSUhJTH
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/HondaNaoki/status/2029090054900203549 @HondaNaoki]: 小池くんとの研究がPNASから出版！
+ >
+ >データ駆動モデリングで脳の配線原理を解読した研究です。
+ >
+ >神経はなぜ正しい場所につながるのか？
+ >
+ >脳の接続データから神経を導く 「見えない分子の地図」 を解読。
+ >
+ >さらに遺伝子発現データのみから脳の配線構造の再構成にも成功。
+ >
+ >https://t.co/vZYGjuHBYB
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/pawakun/status/2029089985295683912 @pawakun]: 罠すぎるだろこれ https://t.co/xU7yA1hjIc
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/stapriegg/status/2029088418282762455 @stapriegg]: ぎょえええええええええええええ https://t.co/UhT6G9gMsn
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/sielkenzen/status/2029087704567451725 @sielkenzen]: Noteに公開しました！
+ >【狂気】2026年、PS3を開発する——1行もコードを書けない人間が、AIと組んで「開発地獄」と呼ばれたPS3に挑み、15年間誰も開けられなかった扉をこじ開けた1週間の記録。
+ >https://t.co/HQ2JKub8Sn https://t.co/1rOnvHRkYX
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/yugen_matuni/status/2028763232979296454 @yugen_matuni]: GLM、Kimi、Qwen、MiniMaxの全てのモデルが単一サブスクで使えるわがままプラン。
+ >
+ >10$、50$のプラン。
+ >しかも初月3$~15$。
+ >
+ >これGLMとKimi解約してこっちいくべきかな。
+ >レートも結構余裕ありそう。 https://t.co/sZPrp5MjMr https://t.co/aMTh33xb83
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/r1cA18/status/2028079510143582452 @r1cA18]: Macの画面を監視してAIが配信みたいなコメント流してくるアプリ作った！！！！！
+ >
+ >誰の得にもならないけど面白いからいいや
+ >
+ > #春休み毎日開発 1日目 https://t.co/2dgep8ehK4
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/hardtime_many/status/2028068229772726296 @hardtime_many]: 15年？くらい前に、ユーゴスラビア紛争を実際に体験した日本人が書いたスレがあったような...と思って、検索したらあったので、久しぶりに読み直すヨ
+ >
+ >https://t.co/jT2nJ4Ti9c
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/TomomuraYoutube/status/2028049026571178437 @TomomuraYoutube]: 現時点での
+ >・中東地域での領空閉鎖
+ >・日本の航空会社が飛行できない領空
+ >・主要空港が閉鎖されている国
+ >を反映した世界地図を作成
+ >
+ >これを見ると、今、日本からヨーロッパへ西回りで向かうことがいかに難しいか一目で分かると思う
+ >
+ >該当国は以下
+ >・ロシア
+ >・ウクライナ
+ >・イラン
+ >・イラク https://t.co/MHTJrsS43v
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/ochyai/status/2027720014070231422 @ochyai]: 実行された… https://t.co/MvccUSkyxV https://t.co/IxbkT5Kxb4
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/kakoka_2019/status/2027588722691346470 @kakoka_2019]: 以前、NHKのすイエんサーでアイドルと東大生だったかが「どうすれば自由落下する紙の滞空時間を延ばせるか」みたいな勝負してて、結果アイドルの方が勝った。アイドルは理論はなくとも観察とアイデアで勝負してて、東大生は理論で勝負してた。たぶん、この勝負を長期間にわたってやれば東大生が勝つ。
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/NaoTsuchiya/status/2027273331867861165 @NaoTsuchiya]: 意識ラジオ　岩間大吾さん　コーヒーのクオリア構造　言語と意識の関係性 https://t.co/9Wiyke2Leo @YouTubeより 大学の学部１年生でこんだけ研究できるてるのがすごいよなぁ。俺はその頃合コンとラクロスばっかやってたなぁ。
+  [ChatGPT.icon]要約の取得に失敗しました
+
