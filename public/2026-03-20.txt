@@ -1,0 +1,66 @@
+[* 2026-03-20 のツイートまとめ]
+
+[** 自分のツイート]
+ [https://twitter.com/hideh_1231/status/2034597705834762394]
+  大阪が寒すぎる…
+
+ [https://twitter.com/hideh_1231/status/2034553734844596332]
+  https://t.co/3YJaDOLoaF
+
+ [https://twitter.com/hideh_1231/status/2034553644084036048]
+  遅延ナイス！！！！！（ギリギリのため）
+
+ [https://twitter.com/hideh_1231/status/2034516213129490552]
+  来年は紅茶飲みに行くか
+
+ [https://twitter.com/hideh_1231/status/2034178530066763856]
+  聴覚スペシャルセッション、何かしら資料or動画共有あると嬉しい…
+
+ [https://twitter.com/hideh_1231/status/2034105046372417693]
+  AHs滝行編（？） https://t.co/QBOQIBWtV8
+
+ [https://twitter.com/hideh_1231/status/2033928368216039459]
+  永遠にRTAやってたので、マジでAHsを見ておらず
+
+ [https://twitter.com/hideh_1231/status/2033785251584172253]
+  橋本環奈の顔になった自分を見るの、気分が良すぎる
+
+ [https://twitter.com/hideh_1231/status/2033080082051571898]
+  昔趣味でやってたことが本業で役立つという伏線回収が行われている
+
+[** リツイート]
+ >[https://x.com/osaka_seventeen/status/2034118787084259789 @osaka_seventeen]: 1990年代までちゃらんぽらんに生きてた人が社会にあんなにいたのに、2020年代には全員ちゃんと生きないといけないんですよ、という空気になってるの、かなりしんどい
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/ethanjohnweber/status/2033931474827960506 @ethanjohnweber]: I made a Claude Code skill that generates conference posters 🛠️
+ >
+ >Instead of a static PDF, it outputs a single HTML file — drag to resize columns, swap sections, adjust fonts, then give your layout back to Claude. 🔁
+ >
+ >🔗 Skill 👉 https://t.co/KhYV8anbxL https://t.co/85EcZmqs67
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/ysaito_human/status/2033929285585838193 @ysaito_human]: 講談社様から「音声変換入門」を出版する運びとなりました． @parakeet0115 社の @supikiti さんとの共著です．
+ >いわゆるAIボイスチェンジャー技術の基礎から実践までを習得できる一冊となっております．何卒よろしくお願い申し上げます🙇‍♀️🙇‍♀️🙇‍♀️ https://t.co/QnmeYLXTjI
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/nukonuko/status/2033376638776508807 @nukonuko]: Claude Code のレートリミット 2 倍の時間
+ >
+ >夜中に起きていることが多いので、結局いつなの？がわかりづらかった＆ページ遷移なくひとめでわかるようにしたかったのでまとめた。終了は日本時間で 3 月 28 日（土）15:59。
+ >https://t.co/8QEH4NqNoX https://t.co/LuOxd2oyAh
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/Kinosuke_sophi/status/2033375490757779921 @Kinosuke_sophi]: Claude Code / CodexでKaggle金メダルとった話を記事にしました！
+ >5位/3,803チーム、書いたコードほぼゼロ。
+ >
+ >CLAUDE.mdの育て方、実際のプロンプト例など、コンペでどう活用したかをまとめています。
+ >リポジトリも公開しているので、構成や運用の実物も見れます。
+ >
+ >https://t.co/lGHxOqvTnI
+  [ChatGPT.icon]要約の取得に失敗しました
+
+ >[https://x.com/russianblue2009/status/2033226055688106143 @russianblue2009]: 「残業が多いのは、社員の努力が足りないからだ」。
+ >そう思っている管理職の方に、一度立ち止まって考えてほしいことがあります。
+ >
+ >名古屋市の特注設備メーカー「広島株式会社」が、Microsoft https://t.co/a95MzOILul
+  [ChatGPT.icon]要約の取得に失敗しました
+
